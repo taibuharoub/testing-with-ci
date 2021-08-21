@@ -1,0 +1,24 @@
+{
+  "name": "testing-with-ci",
+  "version": "1.0.0",
+  "description": "Testing with CircleCI Continuous Integration",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taibuharoub/testing-with-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taibuharoub/testing-with-ci/issues"
+  },
+  "homepage": "https://github.com/taibuharoub/testing-with-ci#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
