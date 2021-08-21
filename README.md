@@ -1,2 +1,2 @@
 # testing-with-ci
-Testing with CircleCI Continuous Integration  
+Testing with CircleCI Continuous Integration.  
